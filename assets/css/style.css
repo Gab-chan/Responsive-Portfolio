@@ -225,6 +225,11 @@ body {
         height: 685px;
     }
 
+    footer {
+      width: 149%;
+
+    }
+
   }
 
 
@@ -233,6 +238,11 @@ body {
          width: 444px;
          height: 685px;
      }
+
+     footer {
+      width: 165%;
+      
+    }
  }
 
 
@@ -246,4 +256,10 @@ body {
          width: 306px;
          height: 685px;
      }
+
+     footer {
+       width: 197%;
+     }
+
+     
  }
